@@ -3,4 +3,4 @@ C program to read the CO2 value from the MH-Z14A Infrared Carbon Dioxide sensor 
 
 Tested on Raspberry Pi
 
-compile with: *gcc test.c -o test -lwiringPi*
+compile with: *gcc mhz14a.c -o mhz14a -lwiringPi*
